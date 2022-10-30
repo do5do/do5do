@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 ### Hi
 I'm Dohee Kim, Java backend developer.   
    
-#### Tech stack
+### Tech stack
 Techs that I've used at least once.   
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-  <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+  <img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
