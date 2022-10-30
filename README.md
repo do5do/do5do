@@ -1,10 +1,10 @@
-## Hi there
+## Hi
 
 
 #Tech stack
-Techs that I've used at least once.
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+Techs that I've used at least once.&nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
 
 <!--
 **do5do/do5do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
