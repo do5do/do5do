@@ -1,11 +1,3 @@
-## Hi
-
-
-#Tech stack
-Techs that I've used at least once.&nbsp
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-
 <!--
 **do5do/do5do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi
+I'm Dohee Kim, Java backend developer.   
+
+#### Tech stack
+Techs that I've used at least once.   
+
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-#4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+<img alt="Oracle" src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-#232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
