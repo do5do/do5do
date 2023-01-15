@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=do1510)](https://solved.ac/do1510/)   
-[![do5do's GitHub stats](https://github-readme-stats.vercel.app/api?username=do5do&thema=dark)]()
+[![do5do's GitHub stats](https://github-readme-stats.vercel.app/api?username=do5do&theme=dark)]()
 <br>
 > Techs that I've used at least once.   
 <p>
