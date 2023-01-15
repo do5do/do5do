@@ -12,10 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="right">   
+
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=do1510)](https://solved.ac/do1510/)   
-[![do5do's GitHub stats](https://github-readme-stats.vercel.app/api?username=do5do&theme=dark)]()
-</div>
+[![do5do's GitHub stats](https://github-readme-stats.vercel.app/api?username=do5do&theme=dark)]() 
+-->
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=do1510">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=do5do&theme=dark">
 
 <p align="left">
    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
