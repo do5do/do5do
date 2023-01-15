@@ -33,6 +33,5 @@ Here are some ideas to get you started:
 
 <span align="right">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=do1510">
-   <br>
    <img src="https://github-readme-stats.vercel.app/api?username=do5do&theme=dark">
 </span>
