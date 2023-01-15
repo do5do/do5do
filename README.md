@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=do1510)](https://solved.ac/do1510/)   
 [![do5do's GitHub stats](https://github-readme-stats.vercel.app/api?username=do5do&theme=dark)]() 
 -->
-<span align="left">
+<div align="left">
    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
    <img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
    <img alt="Oracle" src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-</span>
+</div>
 <br>
-<span align="right">
+<div align="right">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=do1510">
    <img src="https://github-readme-stats.vercel.app/api?username=do5do&theme=dark">
-</span>
+</div>
