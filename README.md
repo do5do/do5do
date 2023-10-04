@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=do1510)](https://solved.ac/do1510/)   
 [![do5do's GitHub stats](https://github-readme-stats.vercel.app/api?username=do5do&theme=dark)]() 
+-->
 
 <div align="left">
    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 </div>
 <br>
-<!-- <div>
+<div>
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=do1510">
    <img src="https://github-readme-stats.vercel.app/api?username=do5do&theme=dark">
-</div> -->
+</div>
