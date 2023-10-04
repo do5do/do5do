@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=do1510)](https://solved.ac/do1510/)   
 [![do5do's GitHub stats](https://github-readme-stats.vercel.app/api?username=do5do&theme=dark)]() 
--->
+
 <div align="left">
    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
    <img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot">
