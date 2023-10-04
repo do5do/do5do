@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 <br>
 <div>
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=do1510">
-   <img src="https://github-readme-stats.vercel.app/api?username=do5do&theme=dark">
+<!--    <img src="https://github-readme-stats.vercel.app/api?username=do5do&theme=dark"> -->
 </div>
