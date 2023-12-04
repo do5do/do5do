@@ -1,6 +1,5 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat-square&logo=apachespark&logoColor=#E35A16)
 ![Docker](https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -13,6 +12,7 @@
 <!--
 ![k8s](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 
 [![do5do's GitHub stats](https://github-readme-stats.vercel.app/api?username=do5do&theme=dark)]() 
 -->
